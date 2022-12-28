@@ -1,0 +1,19 @@
+{
+  "name": "shen",
+  "version": "1.0.0",
+  "description": "curso platzy asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node SRC/callback/challenge.js"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "shen",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

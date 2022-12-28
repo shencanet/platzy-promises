@@ -1,0 +1,4 @@
+let msg = new SpeechSynthesisUtterance();
+msg.text = "saludos developer";
+msg.lang = 'es-Es';
+window.speechSynthesis.speak(msg);
